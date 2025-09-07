@@ -5,12 +5,12 @@ A full-stack application (frontend + backend) for the Mind-Spirit-Team-Amex proj
 <h2>team amex </h2>  
 
 ## Project Structure
-├── backend/              # Backend application source code
-├── frontend/             # Frontend application source code
-├── setup-env.sh          # Script to set up environment variables or run initial configuration
-├── package-lock.json     # Lockfile for npm package versions
-├── .DS_Store             # macOS metadata file (should be ignored)
-└── README.md             # Project documentation
+├── backend/              # Backend application source code<br>
+├── frontend/             # Frontend application source code<br>
+├── setup-env.sh          # Script to set up environment variables or run initial configuration<br>
+├── package-lock.json     # Lockfile for npm package versions<br>
+├── .DS_Store             # macOS metadata file (should be ignored)<br>
+└── README.md             # Project documentation<br>
 
 ## Prerequisites
 
@@ -40,9 +40,9 @@ A full-stack application (frontend + backend) for the Mind-Spirit-Team-Amex proj
 
 ## Usage
 
-Once both servers are running:
-	•	Open your browser at http://localhost:<frontend port> to view the application.
-	•	The frontend communicates with the backend API at http://localhost:<backend port> (adjust based on your setup).
+Once both servers are running:<br>
+	•	Open your browser at http://localhost:<frontend port> to view the application.<br>
+	•	The frontend communicates with the backend API at http://localhost:<backend port> (adjust based on your setup).<br>
 
  🤝 Team Amex<br><br>
 **•	👨‍💻 Khush Chaniyara(team leader) – full-stack developer**<br>
